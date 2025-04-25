@@ -1,3 +1,4 @@
 
 first line using cat command in exaple.txt second line using /append command in exaple.txt
 
+>>>>>>> mamun
