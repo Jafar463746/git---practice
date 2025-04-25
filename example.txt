@@ -1,0 +1,1 @@
+first line using cat command in exaple.txt second line using cat/append command in exaple.txt
